@@ -1,0 +1,12 @@
+@media(max-width:1000px)
+{
+	.fields
+	{
+		width:50%;
+	}
+
+	.main{
+		background-image:none;
+		background-color:red;
+	}
+}
