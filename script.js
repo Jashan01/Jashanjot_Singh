@@ -1,6 +1,8 @@
 let activer=0;
 const showDiv1= document.querySelector(".choice1");
 
+// flag (3/3) - D3v3L0P3r
+
 const initialise=()=>{
 	document.getElementById("show1").style.display="none";
 	document.getElementById("show2").style.display="none";
